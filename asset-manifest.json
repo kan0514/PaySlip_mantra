@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/PaySlip_mantra/static/css/main.ed135d18.css",
+    "main.js": "/PaySlip_mantra/static/js/main.1004c523.js",
+    "static/js/703.3071ef79.chunk.js": "/PaySlip_mantra/static/js/703.3071ef79.chunk.js",
+    "static/js/9.18e2630a.chunk.js": "/PaySlip_mantra/static/js/9.18e2630a.chunk.js",
+    "static/js/787.aa3a6ead.chunk.js": "/PaySlip_mantra/static/js/787.aa3a6ead.chunk.js",
+    "index.html": "/PaySlip_mantra/index.html",
+    "main.ed135d18.css.map": "/PaySlip_mantra/static/css/main.ed135d18.css.map",
+    "main.1004c523.js.map": "/PaySlip_mantra/static/js/main.1004c523.js.map",
+    "703.3071ef79.chunk.js.map": "/PaySlip_mantra/static/js/703.3071ef79.chunk.js.map",
+    "9.18e2630a.chunk.js.map": "/PaySlip_mantra/static/js/9.18e2630a.chunk.js.map",
+    "787.aa3a6ead.chunk.js.map": "/PaySlip_mantra/static/js/787.aa3a6ead.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed135d18.css",
+    "static/js/main.1004c523.js"
+  ]
+}
